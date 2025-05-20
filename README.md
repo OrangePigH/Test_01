@@ -22,8 +22,8 @@ Let's show you how to select and modify code with our API
 ### In
 
 ```javascript
-const angle = 1;
-const b = 2;
+const MyAngle = 1;
+const baby = 2;
 ```
 
 ### Transform With GoGoCode
@@ -46,7 +46,7 @@ const outCode = script.generate();
 
 ```javascript
 const a = 1;
-const b = 1;
+const bb = 1;
 ```
 
 ## Related Project
