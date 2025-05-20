@@ -6,7 +6,7 @@
 
 ## What is GoGoCode?
 
-[再一次中文请看我 README](README-cn.md)
+[请再一次中文请看我 README](README-cn.md)
 
 GoGoCode is a transformer for JavaScript/Typescript/HTML based on AST but providing an intuitive API:
 
